@@ -7,7 +7,7 @@ The dataset was taken from [Kaggle-Retail Sales Dataset](https://www.kaggle.com/
 
 ## Tools used:
 - Excel: Initial data exploration 
-- SQL(MySQL) for analysis. 
+- SQL(MySQL): For analysis. 
 
 ## Key insights:
 - Electronics and Clothing are the top revenue generating categories. 
