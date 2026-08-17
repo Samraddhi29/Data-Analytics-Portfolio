@@ -1,0 +1,16 @@
+﻿RegionID,City,State,Zone
+R001,Mumbai,Maharashtra,West
+R002,Pune,Maharashtra,West
+R003,Bengaluru,Karnataka,South
+R004,Hyderabad,Telangana,South
+R005,Chennai,Tamil Nadu,South
+R006,Delhi,Delhi,North
+R007,Ahmedabad,Gujarat,West
+R008,Jaipur,Rajasthan,North
+R009,Kolkata,West Bengal,East
+R010,Lucknow,Uttar Pradesh,North
+R011,Kochi,Kerala,South
+R012,Indore,Madhya Pradesh,Central
+R013,Chandigarh,Chandigarh,North
+R014,Bhubaneswar,Odisha,East
+R015,Guwahati,Assam,North-East

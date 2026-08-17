@@ -1,0 +1,11 @@
+﻿ProductID,ProductName,Category,UnitPrice (₹),UnitCost (₹)
+P001,Pulse X Smartphone,Mobile,24999,18000
+P002,Pulse Pro Laptop,Laptop,69999,52000
+P003,Pulse Watch Fit,Wearable,12999,8500
+P004,Pulse Tab 10,Tablet,29999,22000
+P005,Pulse Buds Pro,Audio,5999,3500
+P006,Pulse Speaker Mini,Audio,4499,2800
+P007,Pulse Gamer X,Laptop,94999,72000
+P008,Pulse Power Bank,Accessories,1999,1100
+P009,Pulse Wireless Charger,Accessories,2499,1400
+P010,Pulse Home Hub,Smart Home,7999,5000
